@@ -23,12 +23,12 @@ Total size: 810MB
 
 Adobe bridge has been used to organise data into collections based on various variables:
 
-** Angle
+**Angle**
 * -- Frong
 * -- Rear
 * -- Side
 
-** Distance
+**Distance**
 * -- 0-5m
 * -- 5-10m
 * -- 10-15m
@@ -36,7 +36,7 @@ Adobe bridge has been used to organise data into collections based on various va
 * -- 20-25m
 * -- 25m+
 
-** Object
+**Object**
 * -- Goat
 * -- Human
 * -- Human & Elephant
@@ -44,7 +44,7 @@ Adobe bridge has been used to organise data into collections based on various va
 * -- Multiple separate elephants
 * -- Single elephant
 
-** Sensor
+**Sensor**
 * -- Lepton 2.5
 * -- Lepton 3.5
 
