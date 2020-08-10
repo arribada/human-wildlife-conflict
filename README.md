@@ -18,13 +18,13 @@ As part of the WWF Human Wildlife Tech Challenge, Arribada was tasked with devel
 
 # Elephant dataset
 
-Total number of photographs: 106,512
-Total size: 810MB
+Total number of photographs: **106,512**
+Total size: **810MB**
 
 Adobe bridge has been used to organise data into collections based on various variables:
 
 **Angle**
-* -- Frong
+* -- Front
 * -- Rear
 * -- Side
 
