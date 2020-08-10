@@ -1,2 +1,2 @@
-# human-wildlife-conflict
-Datasets &amp; technology developement of human-wildlife-conflict solutions
+## human-wildlife-conflict
+# Datasets &amp; technology development of human-wildlife-conflict solutions
