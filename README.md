@@ -18,21 +18,37 @@ As part of the WWF Human Wildlife Tech Challenge, Arribada was tasked with devel
 
 # Elephant dataset
 
-Files are named by date, time, camera number and sensor used. E.g. *20190901_1000_1030_CAMA1_3.5b*
-
-These are organised into the meta-folder ‘Original Folders’. Photos from DIY cameras which needed converting from BMP into PNG are maintained in original format and have been converted into PNG’s in separate folders titled “Converted to PNG” or similar.
+Total number of photographs: 106,512
+Total size: 810MB
 
 Adobe bridge has been used to organise data into collections based on various variables:
 
-*	Sensor used (3.5 or 2.5)
-*	What labelling project they were used in (algorithm test 1, 2, sensor test 2.5 or 3.5)
-*	The distance the elephant or human is from the camera (in 5 metre increments)
-*	The object (human, single elephant, multiple separate elephants, multiple obstructing elephants, goats)
-*	The angle of the elephant (head, side, rear) 
+* Angle
+-- Frong
+-- Rear
+-- Side
+
+* Distance
+0-5m
+5-10m
+10-15m
+15-20m
+20-25m
+25m+
+
+* Object
+-- Goat
+-- Human
+-- Human & Elephant
+-- Multiple obstructing elephants
+-- Multiple separate elephants
+-- Single elephant
+
+* Sensor
+-- Lepton 2.5
+-- Lepton 3.5
 
 If there was more than one elephant in the image and they were at different distances/angles, the image was sorted into all applicable categories. E.g. one elephant 0-5m from camera at a side angle, and another 10-15m and head on to the camera would be sorted into: 0-5m, 10-15m, head & side collections. 
-
-You can download and access the 
  
 
 
