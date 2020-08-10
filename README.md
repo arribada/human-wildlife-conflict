@@ -24,17 +24,17 @@ Total size: 810MB
 Adobe bridge has been used to organise data into collections based on various variables:
 
 * Angle
--- Frong
--- Rear
--- Side
+* -- Frong
+* -- Rear
+* -- Side
 
 * Distance
-0-5m
-5-10m
-10-15m
-15-20m
-20-25m
-25m+
+* -- 0-5m
+* -- 5-10m
+* -- 10-15m
+* -- 15-20m
+* -- 20-25m
+* -- 25m+
 
 * Object
 -- Goat
@@ -45,8 +45,8 @@ Adobe bridge has been used to organise data into collections based on various va
 -- Single elephant
 
 * Sensor
--- Lepton 2.5
--- Lepton 3.5
+* -- Lepton 2.5
+* -- Lepton 3.5
 
 If there was more than one elephant in the image and they were at different distances/angles, the image was sorted into all applicable categories. E.g. one elephant 0-5m from camera at a side angle, and another 10-15m and head on to the camera would be sorted into: 0-5m, 10-15m, head & side collections. 
  
