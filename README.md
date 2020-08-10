@@ -10,11 +10,11 @@ We are currently focused on two species;
 
 # Hackster.io / SmartParks ElephantEdge Competition
 
-Arribada's thermal elephant dataset collected at ZSL Whipsnade Zoo is open source (GPLv3) and available for use by anyone wishing to train their own models thermal / optical models for the **ElephantEdge** competition, hosted by Hackster.io and SmartParks. Arribada is also a partner of the [OpenCollar](https://opencollar.io) initiative and is delighted to support the development opportunity to incorporate an open camera system with inference on the edge.
+Arribada's thermal elephant dataset collected at ZSL Whipsnade Zoo is open source (GPLv3) and has been made available for use by anyone wishing to train their own models using Edge Impulse for the **ElephantEdge** competition, hosted by Hackster.io and SmartParks. Arribada is also a partner of the [OpenCollar](https://opencollar.io) initiative and is delighted to support the development opportunity to incorporate an open camera system with inference on the edge.
 
 ## Overview of datasets available
 
-As part of the WWF Human Wildlife Tech Challenge, Arribada was tasked with developing an early warning system capable of detecting Asian elephants and carnivores, specifically tigers & polar bears. We focused on elephants and polar bears first, partnering with ZSL Whipsnade Zoo to capture thermal photographs of the Asian elephant herd using FLIR Lepton 2.5 and 3.5 microbolometer sensors (80x60 and 160x120 respectively). You can read more about our [data collection methodology](https://blog.arribada.org/2020/02/17/progress-report-feburart-2020-thermal-imaging-for-human-wildlife-conflict/) or the [original WWF competition here.](https://www.wwf.org.uk/updates/human-wildlife-conflict-tech-challenge-winners-announced).
+As part of the WWF Human Wildlife Tech Challenge, Arribada was tasked with developing an early warning thermal system capable of detecting Asian elephants and carnivores, specifically tigers & polar bears. We focused on elephants and polar bears first, partnering with ZSL Whipsnade Zoo to capture thermal photographs of the Asian elephant herd using FLIR Lepton 2.5 and 3.5 microbolometer sensors (80x60 and 160x120 respectively). You can read more about our [data collection methodology](https://blog.arribada.org/2020/02/17/progress-report-feburart-2020-thermal-imaging-for-human-wildlife-conflict/) or the [original WWF competition here.](https://www.wwf.org.uk/updates/human-wildlife-conflict-tech-challenge-winners-announced).
 
 # Elephant dataset
 
