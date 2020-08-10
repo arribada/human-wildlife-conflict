@@ -1,5 +1,5 @@
 ## human-wildlife-conflict
-# Datasets &amp; technology development of human wildlife conflict solutions.
+# Datasets &amp; technology development of Arribada's human wildlife conflict solutions.
 
 The Arribada Initiative is actively working to develop in-field early warning systems utilising thermal technologies. This repository hosts the data, software and hardware designs for both our field research and prototype solutions.
 
