@@ -50,5 +50,21 @@ Adobe bridge has been used to organise data into collections based on various va
 
 If there was more than one elephant in the image and they were at different distances/angles, the image was sorted into all applicable categories. E.g. one elephant 0-5m from camera at a side angle, and another 10-15m and head on to the camera would be sorted into: 0-5m, 10-15m, head & side collections. 
  
+## Uploading the dataset to Edge Impulse
 
+You can use the Edge Impulse command line utility to upload the dataset in order to train a model. To install it, follow the [Installation](https://docs.edgeimpulse.com/docs/cli-installation) guide. You can then use the [Edge Impulse Uploader](https://docs.edgeimpulse.com/docs/cli-uploader#uploading-via-the-cli) tool to upload the files in this repository.
 
+For example, you may want to train a model to discern between two categories of image: "elephant" and "non-elephant". In this case, you can upload the corresponding images to Edge Impulse with the following commands:
+
+```bash
+# Upload all the "elephant" images
+edge-impulse-uploader --category split --label elephant human-wildlife-conflict/Elephant/Object/single_elephant/*.png
+edge-impulse-uploader --category split --label elephant human-wildlife-conflict/Elephant/Object/multiple_separate_elephants/*.png
+edge-impulse-uploader --category split --label elephant human-wildlife-conflict/Elephant/Object/multiple_obstructing_elephants/*.png
+edge-impulse-uploader --category split --label elephant human-wildlife-conflict/Elephant/Object/human_and_elephant/*.png
+# Upload all the "non-elephant" images
+edge-impulse-uploader --category split --label non-elephant human-wildlife-conflict/Elephant/Object/human/*.png
+edge-impulse-uploader --category split --label non-elephant human-wildlife-conflict/Elephant/Object/goat/*.png
+```
+
+The `--category split` flag ensures the data is split automatically into training and test datasets after the upload.
