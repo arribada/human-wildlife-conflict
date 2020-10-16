@@ -1,7 +1,7 @@
 ## human-wildlife-conflict
 # Datasets &amp; technology development of Arribada's human wildlife conflict solutions
 
-The Arribada Initiative is actively working to develop in-field early warning systems utilising thermal technologies. This repository will host the data, software and hardware designs for both our field research and prototype solutions
+The Arribada Initiative is actively working to develop in-field early warning systems utilising thermal technologies. This repository hosts the data, software and hardware designs for both our field research and prototype solutions.
 
 We are currently focused on two species;
 
@@ -10,11 +10,11 @@ We are currently focused on two species;
 
 # Hackster.io / SmartParks ElephantEdge Competition
 
-Arribada's thermal elephant dataset collected at ZSL Whipsnade Zoo is open source (GPLv3) and has been made available for use by anyone wishing to train their own models using Edge Impulse for the **ElephantEdge** competition, hosted by Hackster.io and SmartParks. Arribada is also a partner of the [OpenCollar](https://opencollar.io) initiative and is delighted to support the development opportunity to incorporate an open camera system with inference on the edge.
+Arribada's thermal elephant programme, in partnership with the Zoological Society of London, has collected a dataset of Asian elephant photos at ZSL Whipsnade Zoo. This dataset is open source (GPLv3) and has been made available for use by anyone wishing to train their own models using Edge Impulse for the **ElephantEdge** competition, hosted by Hackster.io and SmartParks. Arribada is also a partner of the [OpenCollar](https://opencollar.io) initiative and is delighted to support the development opportunity to incorporate an open camera system with inference on the edge.
 
 ## Overview of datasets available
 
-As part of the WWF Human Wildlife Tech Challenge, Arribada was tasked with developing an early warning thermal system capable of detecting Asian elephants and carnivores, specifically tigers & polar bears. We focused on elephants and polar bears first, partnering with ZSL Whipsnade Zoo to capture thermal photographs of the Asian elephant herd using FLIR Lepton 2.5 and 3.5 microbolometer sensors (80x60 and 160x120 respectively). You can read more about our [data collection methodology](https://blog.arribada.org/2020/02/17/progress-report-feburart-2020-thermal-imaging-for-human-wildlife-conflict/) or the [original WWF competition here.](https://www.wwf.org.uk/updates/human-wildlife-conflict-tech-challenge-winners-announced).
+As part of the WWF Human Wildlife Tech Challenge, Arribada was tasked with developing an early warning thermal system capable of detecting Asian elephants and carnivores, specifically tigers & polar bears. We focused on elephants and polar bears first, partnering with the Zoological Society of London and working with ZSL Whipsnade Zoo to capture thermal photographs of the Asian elephant herd using FLIR Lepton 2.5 and 3.5 microbolometer sensors (80x60 and 160x120 respectively). You can read more about our [data collection methodology](https://blog.arribada.org/2020/02/17/progress-report-feburart-2020-thermal-imaging-for-human-wildlife-conflict/) or the [original WWF competition here.](https://www.wwf.org.uk/updates/human-wildlife-conflict-tech-challenge-winners-announced).
 
 # Elephant dataset
 
